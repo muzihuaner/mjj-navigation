@@ -116,19 +116,54 @@
     "color": "bg-green-100 border-green-500",
     "links": [
       {
-        "name": "专线服务商1",
-        "url": "#",
-        "desc": "BGP线路"
+        "name": "鸡仔云 – 广港、沪日、沪韩等跨境IPLC专线",
+        "url": "https://bigchick.xyz",
+        "desc": "专营广港、沪日和沪韩等IPLC专线。"
       },
       {
-        "name": "专线服务商2",
-        "url": "#",
-        "desc": "CN2 GIA"
+        "name": "彼得巧(PQS) – 莞港IPLC、台湾hinet、广东移动VDS",
+        "url": "https://www.pqs.pw/",
+        "desc": "专注提供台湾、香港和深港IPLC专线等网络服务。"
       },
       {
-        "name": "专线服务商3",
-        "url": "#",
-        "desc": "IPLC专线"
+        "name": "无忧云-稳定可靠的云服务商 – 以云与智慧融绘数字未来",
+        "url": "https://www.wuyouyun.cc/",
+        "desc": "无忧云（51cloud.cc）是一家经营国内服务器托管、VDS、VPS，稳定可靠的云服务商。"
+      },
+      {
+        "name": "Ocent – 深港IPLC专线、香港VPS、日本VPS、大带宽流媒体解锁VPS",
+        "url": "https://www.wuyouyun.cc/",
+        "desc": "https://ocent.net/"
+      },
+      {
+        "name": "咕咕云 – 云服务器、大带宽服务器、服务器租用托管服务提供商",
+        "url": "https://www.ggy.net/",
+        "desc": "咕咕云是领先的企业级云计算提供商。专注云计算技术研发，面向广大的开发者、企事业用户、教育机构、金融机构等"
+      },
+      {
+        "name": "LarkYUN（云雀云）- 广东移动、江苏移动、浙江联通国内大带宽",
+        "url": "https://www.larkidc.com/",
+        "desc": "云雀云LarkYUN为您提供云计算以及其周边领域优质产品。我们的愿景是潜心打造一个诚信、高性价比的虚拟服务器良心品牌，不断地与时俱进、努力创新，力争成为可靠稳定的虚拟服务器品牌。服务包括网络托管，虚拟专用服务器，提供标准化和定制配置。通过利用顶级设施和网络提供商的战略合作伙伴关系提供服务，确保我们提供的服务高度可用。"
+      },
+      {
+        "name": "CloudIPLC – 沪日IPLC、海外VPS、国内CN2",
+        "url": "https://www.cloudiplc.com",
+        "desc": "全球云主机.海外VPS.美国VPS.俄罗斯VPS.中国VPS.国内CN2.服务器租用"
+      },
+      {
+        "name": "OwOCloud – 值得信赖的云计算",
+        "url": "https://www.owocloud.net/",
+        "desc": "提供上海电信/联通、深圳电信/BGP等大带宽大流量产品，支持定制服务。"
+      },
+      {
+        "name": "Mkcloud – 广港IEPL、沪日IPLC和沪美IPLC专线",
+        "url": "https://www.mkcloud.net/",
+        "desc": "提供高品质的国际专线服务，包括上云互联优化专线、广港IEPL、沪日IPLC、沪美IPLC和港法IPLC等多种专线服务。我们的专线解决方案可满足您的全球连接需求，提供可靠、安全、高速的网络连接，助力您实现全球业务增长。"
+      },
+      {
+        "name": "橙汁科技OSASE系统-国际互联网加速与万物互联",
+        "url": "https://www.osase.net/",
+        "desc": "全球互联网加速服务基于主管部门可加速应用白名单机制并内置访问审计，可用于高效连接各种境外互联网资源。"
       }
     ]
   },
