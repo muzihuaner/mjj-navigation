@@ -214,6 +214,18 @@
       {
         "name": "西部数码 – 域名注册、域名查询、域名购买、域名申请",
         "url": "https://www.west.cn"
+      },
+      {
+        "name": "Google Domains – 注册您的域名",
+        "url": "https://domains.google"
+      },
+      {
+        "name": "Cloudflare Registrar – 不加价的域名注册",
+        "url": "https://www.cloudflare.com/zh-cn/products/registrar/"
+      },
+      {
+        "name": "GoDaddy – 域名注册购买,云服务器,建站,企业邮箱和网站安全",
+        "url": "https://www.godaddy.com/zh-sg"
       }
     ]
   },
