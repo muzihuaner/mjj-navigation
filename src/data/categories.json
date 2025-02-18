@@ -166,24 +166,8 @@
         "desc": "全球互联网加速服务基于主管部门可加速应用白名单机制并内置访问审计，可用于高效连接各种境外互联网资源。"
       }
     ]
-  },{
-    "name": "👌 国内大宽带",
-    "color": "bg-lime-100 border-lime-500",
-    "links": [
-      {
-        "name": "IDC服务商A",
-        "url": "#"
-      },
-      {
-        "name": "IDC服务商B",
-        "url": "#"
-      },
-      {
-        "name": "IDC服务商C",
-        "url": "#"
-      }
-    ]
-  },{
+  },
+  {
     "name": "🧷域名注册",
     "color": "bg-pink-100 border-pink-500",
     "links": [
@@ -230,20 +214,53 @@
     ]
   },
   {
-    "name": "💻 IDC云集",
+    "name": "💻 国内外中小厂",
     "color": "bg-purple-100 border-purple-500",
     "links": [
       {
-        "name": "IDC服务商A",
-        "url": "#"
+        "name": "ClawCloud | 高性能，低成本 | 独享VPS",
+        "url": "https://claw.cloud/",
+        "desc": "ClawCloud是一家云服务基础设施提供商，为开发者提供高性能、低成本的VPS服务，独享CPU、内存、存储，无资源争抢，是每一位开发者无与伦比的超值选择。"
       },
       {
-        "name": "IDC服务商B",
-        "url": "#"
+        "name": "RackNerd – 美国便宜vps服务器",
+        "url": "https://my.racknerd.com",
+        "desc": "美国洛杉矶、圣何塞、达拉斯、芝加哥等地区便宜VPS服务器主机商。"
       },
       {
-        "name": "IDC服务商C",
-        "url": "#"
+        "name": "CLOUDCONE – 美国MC机房云服务器、独立服务器，便宜稳定",
+        "url": "https://app.cloudcone.com",
+        "desc": "主营美西MC机房的云服务器、VPS、独立服务器和CDN业务"
+      },
+      {
+        "name": "搬瓦工 – 香港CN2 GIA、日本CN2 GIA、美国CN2 GIA等",
+        "url": "https://bwh81.net/",
+        "desc": "隶属于加拿大IT7公司的VPS品牌，商家靠谱，技术实力雄厚。"
+      },
+      {
+        "name": "Vultr – 美国云服务器提供商",
+        "url": "https://www.vultr.com/",
+        "desc": "轻松在全球范围内部署云服务器"
+      },
+      {
+        "name": "狗云 – 高性价比的云服务器",
+        "url": "https://www.dogyun.com",
+        "desc": "致力于提供高性价比的云服务器。。"
+      },
+      {
+        "name": "雨云 - 新一代云服务提供商",
+        "url": "https://www.rainyun.com/",
+        "desc": "欢迎来到以用户体验为优先的雨云，我们提供稳定高速的国际虚拟主机，云服务器产品，强大的功能，高效率的客户支持，简洁易用的面板，值得您的信赖。"
+      },
+      {
+        "name": "UCloud – 优刻得科技股份有限公司",
+        "url": "https://www.ucloud.cn/",
+        "desc": "UCloud （优刻得科技股份有限公司）提供公有云、混合云、私有云、专有云在内的综合性行业解决方案。"
+      },
+      {
+        "name": "JustHost – 便宜无限流量vps服务器",
+        "url": "https://justhost.asia",
+        "desc": "提供多个俄罗斯机房以及美国达拉斯机房的便宜VPS主机。"
       }
     ]
   },
