@@ -265,6 +265,42 @@
     ]
   },
   {
+    "name": "🎰炼丹炉",
+    "color": "bg-yellow-100 border-yellow-500",
+    "links": [
+      {
+        "name": "AutoDL算力云 | 弹性、好用、省钱。租GPU就上AutoDL",
+        "url": "https://www.autodl.com/",
+        "desc": "AutoDL为您提供专业的GPU租用服务，秒级计费、稳定好用，高规格机房，7x24小时服务。更有算法复现社区，一键复现算法。"
+      },
+      {
+        "name": "vast.ai",
+        "url": "https://vast.ai/",
+        "desc": ""
+      },
+      {
+        "name": "OpenBayes 贝式计算",
+        "url": "https://openbayes.com/",
+        "desc": "让计算更简单"
+      },
+      {
+        "name": "算力互联-算力网与人工智能基础设施",
+        "url": "https://www.casdao.com/",
+        "desc": "科技算力互联网建设与运营服务商，致力于构建算力运营、资源交易、数据交换、生态服务为一体的科技算力互联网基础设施"
+      },
+      {
+        "name": "趋动云-连接算力·连接人",
+        "url": "https://virtaicloud.com/",
+        "desc": "基于领先的 GPU 池化技术，连接全球算力，为您带来高质量的AI应用开发体验，大幅降低您的模型训练成本"
+      },
+      {
+        "name": "超算互联网",
+        "url": "https://www.scnet.cn/ui/mall/",
+        "desc": "以创新驱动引领数字中国"
+      }
+    ]
+  },
+  {
     "name": "🚨 灵车总动员",
     "color": "bg-red-100 border-red-500",
     "links": [
