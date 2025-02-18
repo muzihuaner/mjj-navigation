@@ -331,5 +331,26 @@
         "desc": "2022年关闭"
       }
     ]
+  },
+  {
+    "name": "📢MJJ论坛",
+    "color": "bg-blue-100 border-blue-500",
+    "links": [
+      {
+        "name": "Nodeseek",
+        "url": "https://www.nodeseek.com/",
+        "desc": "Nodeseek是一个讨论网络开发，托管，VPS /服务器和其他极客事物的论坛"
+      },
+      {
+        "name": "全球主机交流论坛",
+        "url": "https://hostloc.com/",
+        "desc": "美国服务器主机交流"
+      },
+      {
+        "name": "LowEndTalk",
+        "url": "https://www.lowendtalk.com/",
+        "desc": "国外主机论坛"
+      }
+    ]
   }
 ]
