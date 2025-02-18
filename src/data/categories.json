@@ -168,7 +168,7 @@
     ]
   },{
     "name": "👌 国内大宽带",
-    "color": "bg-teal-100 border-teal-500",
+    "color": "bg-lime-100 border-lime-500",
     "links": [
       {
         "name": "IDC服务商A",
@@ -185,7 +185,7 @@
     ]
   },{
     "name": "🧷域名注册",
-    "color": "bg-black-100 border-black-500",
+    "color": "bg-brown-100 border-brown-500",
     "links": [
       {
         "name": "IDC服务商A",
