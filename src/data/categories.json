@@ -1,5 +1,26 @@
 [
   {
+    "name": "📢MJJ论坛",
+    "color": "bg-blue-100 border-blue-500",
+    "links": [
+      {
+        "name": "Nodeseek",
+        "url": "https://www.nodeseek.com/",
+        "desc": "Nodeseek是一个讨论网络开发，托管，VPS /服务器和其他极客事物的论坛"
+      },
+      {
+        "name": "全球主机交流论坛",
+        "url": "https://hostloc.com/",
+        "desc": "美国服务器主机交流"
+      },
+      {
+        "name": "LowEndTalk",
+        "url": "https://www.lowendtalk.com/",
+        "desc": "国外主机论坛"
+      }
+    ]
+  },
+  {
     "name": "🔥 热门商家",
     "color": "bg-orange-100 border-orange-500",
     "links": [
@@ -261,6 +282,66 @@
         "name": "JustHost – 便宜无限流量vps服务器",
         "url": "https://justhost.asia",
         "desc": "提供多个俄罗斯机房以及美国达拉斯机房的便宜VPS主机。"
+      },
+      {
+        "name": "AkkoCloud – 美西、德国、英国CN2 GIA",
+        "url": "https://www.akkocloud.com/",
+        "desc": "AkkoCloud是一家服务器厂商，为大家提供美国德国英国CN2 GIA VPS和独立服务器租用托管，致力为大家带来高效快速的服务器"
+      },
+      {
+        "name": "V.PS – 全球众多对华优化线路机房",
+        "url": "https://vps.hosting",
+        "desc": "V.PS 是 xTom 旗下子品牌，拥有全球众多对华优化线路机房。"
+      },
+      {
+        "name": "菠萝云-香港VPS,香港云主机,香港云服务器专业IDC服务商",
+        "url": "http://www.boluoyun.com/",
+        "desc": "专业提供香港VPS,香港云主机,香港服务器,美国VPS，美国云主机、香港虚拟主机、免备案VPS、免备案主机、香港CDN、云防护、高防VPS、CC防护、云服务器、VPS、服务器租用等，专业知名的云服务器服务商，菠萝云助您网络创业决胜千里!"
+      },
+      {
+        "name": "物语云 – 国内、美西、日本高性能服务器，游戏服务器",
+        "url": "https://www.wuyuidc.com/",
+        "desc": "经工信部与北京市通管局批准的正规服务商。"
+      },
+      {
+        "name": "野草云 – VPS云服务器、独立服务器租用/托管、域名注册等系列产品与服务",
+        "url": "https://www.yecaoyun.com",
+        "desc": "定价简单、实惠，12年专注香港服务器资源。"
+      },
+      {
+        "name": "jtti-全球网络基础服务商",
+        "url": "https://www.jtti.cc/zh",
+        "desc": "Jtti是一家于新加坡注册成立的全球网络基础服务商，主要提供优质的一站式互联网服务解决方案。"
+      },
+      {
+        "name": "BuyVM – 无限流量、无版权服务器",
+        "url": "https://my.frantech.ca",
+        "desc": "加拿大商家，主要经营美国拉斯维加斯、纽约、迈阿密和卢森堡地区的无限流量VPS"
+      },
+      {
+        "name": "HostDare – 美西CN2 GIA，稳定可靠",
+        "url": "https://bill.hostdare.com",
+        "desc": "机房位于Quadranet洛杉矶数据中心，提供CN2 GT和CN2 GIA线路"
+      },
+      {
+        "name": "Terrahost – 挪威主机商",
+        "url": "https://terrahost.com/",
+        "desc": "挪威主机商，主要运营独立服务器，VPS主机，虚拟主机。"
+      },
+      {
+        "name": "Hetzner – 高性价比独立服务器、云服务器",
+        "url": "https://www.hetzner.com",
+        "desc": "一家位于德国贡岑豪森的数据中心运营商"
+      },
+      {
+        "name": "OVHCloud – 全球高防服务器提供商",
+        "url": "https://www.ovhcloud.com",
+        "desc": "法国云计算公司，提供有VPS、专有服务器及其他Web服务。"
+      },
+      {
+        "name": "GreenCloud – 香港、新加坡、日本和美国等地区服务器",
+        "url": "https://greencloudvps.com",
+        "desc": "越南主机商，数据中心众多，包括香港、日本、新加坡、美国和越南等。。"
       }
     ]
   },
@@ -305,51 +386,20 @@
     "color": "bg-red-100 border-red-500",
     "links": [
       {
-        "name": "高风险商家A",
+        "name": "高风险商家",
         "url": "#",
         "desc": "谨慎选择"
-      },
-      {
-        "name": "高风险商家B",
-        "url": "#",
-        "desc": "近期投诉多"
       }
     ]
   },
   {
-    "name": "🕯️ 已结业商家",
+    "name": "🕯️ 跑路商家",
     "color": "bg-gray-100 border-gray-500 opacity-75",
     "links": [
       {
-        "name": "已关闭商家A",
-        "url": "#",
-        "desc": "2023年关闭"
-      },
-      {
-        "name": "已关闭商家B",
-        "url": "#",
-        "desc": "2022年关闭"
-      }
-    ]
-  },
-  {
-    "name": "📢MJJ论坛",
-    "color": "bg-blue-100 border-blue-500",
-    "links": [
-      {
-        "name": "Nodeseek",
-        "url": "https://www.nodeseek.com/",
-        "desc": "Nodeseek是一个讨论网络开发，托管，VPS /服务器和其他极客事物的论坛"
-      },
-      {
-        "name": "全球主机交流论坛",
-        "url": "https://hostloc.com/",
-        "desc": "美国服务器主机交流"
-      },
-      {
-        "name": "LowEndTalk",
-        "url": "https://www.lowendtalk.com/",
-        "desc": "国外主机论坛"
+        "name": "PacificRack",
+        "url": "https://pacificrack.com/",
+        "desc": "加利福尼亚洛杉矶的网络托管公司"
       }
     ]
   }
