@@ -11,7 +11,7 @@ const CategoryCard = ({ category }) => {
             href={link.url}
             className="block p-2 bg-white rounded hover:bg-gray-50 transition-colors"
           >
-            <div className="font-medium">{link.name}</div>
+            <div className="font-bold">{link.name}</div>
             {link.desc && <div className="text-sm text-gray-500">{link.desc}</div>}
           </a>
         ))}
