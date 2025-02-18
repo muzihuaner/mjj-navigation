@@ -188,16 +188,16 @@
     "color": "bg-pink-100 border-pink-500",
     "links": [
       {
-        "name": "IDC服务商A",
-        "url": "#"
+        "name": "Name.com – 域名、注册、网站和托管",
+        "url": "https://www.name.com/zh-cn"
       },
       {
-        "name": "IDC服务商B",
-        "url": "#"
+        "name": "Namecheap – 国际老品牌域名注册商",
+        "url": "https://www.namecheap.com/"
       },
       {
-        "name": "IDC服务商C",
-        "url": "#"
+        "name": "NameSilo – 互联网域名注册商，支持支付宝",
+        "url": "https://www.namesilo.com/"
       }
     ]
   },
