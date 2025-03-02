@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ChevronRightIcon } from '@heroicons/react/24/outline';
+import { ChevronRightIcon } from '@heroicons/react/20/solid';
 import { ComposableMap, Geographies, Geography, Marker } from 'react-simple-maps';
 
 // 地图拓扑JSON数据（使用简化版世界地图）
@@ -613,7 +613,7 @@ const DataCenterMap = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
-    <div className="relative h-[900px] w-full bg-gray-50">
+    <div className="relative h-[1900px] w-full bg-gray-50">
       {/* 注入呼吸动画样式 */}
       <style>{styles}</style>
 

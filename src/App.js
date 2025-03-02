@@ -12,7 +12,7 @@ function App() {
         </h1>
         <CurrencyConverter />
         <CategoryList />
-        <div style={{ display: 'flex', flexDirection: 'column', height: '140vh' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', height: '110vh',marginTop: '20px' }}>
           <header style={{ padding: '16px', backgroundColor: '#f0f0f0' }}>
             <h1>全球数据中心地图</h1>
           </header>
