@@ -42,6 +42,26 @@
         "name": "VPS融合怪服务器测评项目",
         "url": "https://github.com/spiritLHLS/ecs",
         "desc": "尽量做最全能测试服务器的脚本"
+      },
+      {
+        "name": "netboot.xyz",
+        "url": "https://netboot.xyz/",
+        "desc": "netboot.xyz是一个网络引导程序，可以从网络引导多种操作系统安装程序。"
+      },
+      {
+        "name": "哪吒监控",
+        "url": "https://nezha.wiki/",
+        "desc": "开源、轻量、易用的服务器监控与运维工具."
+      },
+      {
+        "name": "1Panel",
+        "url": "https://1panel.cn/",
+        "desc": "开源，现代化。1Panel 是新一代的 Linux 服务器运维管理面板"
+      },
+      {
+        "name": "宝塔面板",
+        "url": "https://www.bt.cn/",
+        "desc": "宝塔,安全高效的服务器运维面板."
       }
     ]
   },
@@ -372,6 +392,11 @@
         "name": "GreenCloud – 香港、新加坡、日本和美国等地区服务器",
         "url": "https://greencloudvps.com",
         "desc": "越南主机商，数据中心众多，包括香港、日本、新加坡、美国和越南等。。"
+      },
+      {
+        "name": "DMIT-云基础设施服务中的高性能虚拟机",
+        "url": "https://www.dmit.io/",
+        "desc": "提供云计算、云服务、云解决方案、云服务器。稳定性挺高，不过价格偏贵。线路对国内访问友好。"
       }
     ]
   },
@@ -408,6 +433,11 @@
         "name": "Psychz Networks",
         "url": "https://www.psychz.net/dedicated-hosting.html",
         "desc": "Psychz，老牌美国主机商，很多主机商都是托管或者使用的这家的服务器。现在有一些特价独立服务器，可选洛杉矶、达拉斯、日本、台湾台北、新加坡、印度、澳大利亚等。"
+      },
+      {
+        "name": "斯巴达(spartanhost)",
+        "url": "https://spartanhost.org/dedicated",
+        "desc": "斯巴达(spartanhost)，是国外商家，以其老板服务好而闻名。他们家选用4837路线，国内访问速度很好，非常适合用来建站。"
       },
       {
         "name": "RPiServers",
