@@ -3,28 +3,64 @@ import { ChevronRightIcon } from '@heroicons/react/24/outline';
 import { ComposableMap, Geographies, Geography, Marker } from 'react-simple-maps';
 
 // 地图拓扑JSON数据（使用简化版世界地图）
-const geoUrl = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
+const geoUrl = 'https://gcore.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
 
 // 数据中心数据
 const DataCenters = [
-  {
-    name: "华北2（北京）",
-    coordinates: [116.405285, 39.904989],
-    provider: "aliyun",
-    region: "Asia"
-  },
-  {
-    name: "华东1（杭州）",
-    coordinates: [120.15507, 30.274085],
-    provider: "aliyun",
-    region: "Asia"
-  },
-  {
-    name: "华南1（深圳）",
-    coordinates: [114.05786, 22.543096],
-    provider: "aliyun",
-    region: "Asia"
-  },
+    {
+      name: "华北1（青岛）",
+      coordinates: [120.38299, 36.06711],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "华北2（北京）",
+      coordinates: [116.405285, 39.904989],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "华北3（张家口）",
+      coordinates: [114.88755, 40.82442],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "华北5（乌兰察布）",
+      coordinates: [113.13333, 41.00000],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "华东1（杭州）",
+      coordinates: [120.15507, 30.274085],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "华东2（上海）",
+      coordinates: [121.47370, 31.23037],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "华南1（深圳）",
+      coordinates: [114.05786, 22.543096],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "华南2（河源）",
+      coordinates: [114.70042, 23.74467],
+      provider: "aliyun",
+      region: "Asia"
+    },
+    {
+      name: "西南1（成都）",
+      coordinates: [104.06680, 30.57267],
+      provider: "aliyun",
+      region: "Asia"
+    },  
   {
     name: "亚太东南1（新加坡）",
     coordinates: [103.8198, 1.3521],
@@ -577,7 +613,7 @@ const DataCenterMap = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
-    <div className="relative h-[700px] w-full bg-gray-50">
+    <div className="relative h-[900px] w-full bg-gray-50">
       {/* 注入呼吸动画样式 */}
       <style>{styles}</style>
 
