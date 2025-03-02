@@ -62,6 +62,16 @@
         "name": "宝塔面板",
         "url": "https://www.bt.cn/",
         "desc": "宝塔,安全高效的服务器运维面板."
+      },
+      {
+        "name": "VPS剩余价值计算器",
+        "url": "https://vpsvalue.quickso.cn/",
+        "desc": "VPS剩余价值计算器，帮助你计算VPS的剩余价值"
+      },
+      {
+        "name": "Cloudflare",
+        "url": "https://www.cloudflare.com/",
+        "desc": "赛博菩萨，Cloudflare是一家美国公司，提供内容交付网络、互联网安全服务和分布式域名系统服务。"
       }
     ]
   },
