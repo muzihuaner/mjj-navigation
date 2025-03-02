@@ -371,6 +371,57 @@
     ]
   },
   {
+    "name": "🍗 富豪，买个独服？！",
+    "color": "bg-teal-100 border-teal-500",
+    "links": [
+      {
+        "name": "Hetzner",
+        "url": "https://www.hetzner.com/dedicated-rootserver/",
+        "desc": "Hetzner拥有数十万台服务器，是欧洲最大的数据中心运营商之一。自 1997 年成立以来，Hetzner一直为私人和企业客户提供强大的托管产品和可靠的 IT 基础设施。通过结合其在创新技术、有吸引力的价格、专家支持和灵活的客户服务方面的优势，Hetzner 在德国和欧洲内外扩大了市场。"
+      },
+      {
+        "name": "OVHCloud",
+        "url": "https://www.ovhcloud.com/en/bare-metal/",
+        "desc": "OVH，国际大厂（欧洲最大、世界第三的托管服务提供商），1999年创立于法国,法国最大IDC,全球排名领先IDC企业。主要特点为DDoS防御极高,流量清洗能力较为优秀。"
+      },
+      {
+        "name": "oneprovider",
+        "url": "https://oneprovider.com/en/dedicated-servers",
+        "desc": "老牌外商，著名老黄牛二道贩子，提供VPS以及全球独立服务器，VPS可按小时计费，全球多个数据中心，含一些特殊地区，也售卖独服、大盘鸡 。"
+      },
+      {
+        "name": "ColoCrossing",
+        "url": "https://www.colocrossing.com/server/dedicated-servers/",
+        "desc": "ColoCrossing成立于2003年，是著名的CC机房。自营数据中心遍布美国纽约、芝加哥、达拉斯、洛杉矶、布法罗、亚特兰大、西雅图、圣何塞等地，提供包括独立服务器租用、托管和VPS主机等产品。"
+      },
+      {
+        "name": "FiberState",
+        "url": "https://www.fiberstate.com/dedicated-servers",
+        "desc": "FiberState，注册于2022年底，美国犹他州商家，拥有自己的设备并运作自己的数据中心，接入运营商包括了GTT/COGENT/LEVEL3/HE/ZAYO，能提供1G/10G/100Gbps带宽接入，主要提供独立服务器出租和托管等业务…"
+      },
+      {
+        "name": "Psychz Networks",
+        "url": "https://www.psychz.net/dedicated-hosting.html",
+        "desc": "Psychz，老牌美国主机商，很多主机商都是托管或者使用的这家的服务器。现在有一些特价独立服务器，可选洛杉矶、达拉斯、日本、台湾台北、新加坡、印度、澳大利亚等。"
+      },
+      {
+        "name": "RPiServers",
+        "url": "https://rpiservers.com/",
+        "desc": "什么？！树莓派？ 你没看错，这家商家的名字就叫RPiServers，提供树莓派租用服务。"
+      },
+      {
+        "name": "狗云",
+        "url": "https://www.dogyun.com/product/dedicated",
+        "desc": "狗云 - 独立物理服务器、提供重庆香港等地的独立服务器租用服务。"
+      },
+      {
+        "name": "NoMao(小埋主机)",
+        "url": "https://port.nomao.top/index.php/store/qu",
+        "desc": "个人独服卖家、这里的小鸡，都是小埋埋的特殊小鸡鸡，提供IPMI、需要联系老板开通白名单"
+      }
+    ]
+  },
+  {
     "name": "🎰炼丹炉",
     "color": "bg-yellow-100 border-yellow-500",
     "links": [
