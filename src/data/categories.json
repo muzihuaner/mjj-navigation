@@ -37,6 +37,11 @@
         "name": "全球主机监控",
         "url": "https://stock.hostmonit.com/",
         "desc": "国内外VPS、云服务器的库存监控和优惠信息"
+      },
+      {
+        "name": "VPS融合怪服务器测评项目",
+        "url": "https://github.com/spiritLHLS/ecs",
+        "desc": "尽量做最全能测试服务器的脚本"
       }
     ]
   },
