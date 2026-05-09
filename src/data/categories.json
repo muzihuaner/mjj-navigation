@@ -148,6 +148,11 @@
         "name": "FAST.com",
         "url": "https://www.fast.com/",
         "desc": "在线网络速度测试工具"
+      },
+      {
+        "name": "VPSKNOW",
+        "url": "https://vpsknow.com/guides",
+        "desc": "一个由 VPS 玩家写给 VPS 玩家的中文知识平台——从选机避坑到服务器运维，只写真正用得上的内容。"
       }
     ]
   },
@@ -524,7 +529,36 @@
         "name": "狗云",
         "url": "https://www.dogyun.com/product/dedicated",
         "desc": "狗云 - 独立物理服务器、提供重庆香港等地的独立服务器租用服务。"
+      },
+      {
+        "name": "Leaseweb",
+        "url": "https://www.leaseweb.com/",
+        "desc": "Leaseweb是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
+      },
+      {
+        "name": "Clouvider",
+        "url": "https://www.clouvider.com/",
+        "desc": "Clouvider是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
+      },
+      {
+        "name": "OneProvider",
+        "url": "https://www.oneprovider.com/",
+        "desc": "OneProvider是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
       }
+,
+      {
+        "name": "Crunchbits",
+        "url": "https://www.crunchbits.com/",
+        "desc": "Crunchbits是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
+      }
+,
+      {
+        "name": "FiberState",
+        "url": "https://www.fiberstate.com/",
+        "desc": "FiberState是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
+      }
+
+
     ]
   },
   {
