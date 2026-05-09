@@ -9,6 +9,11 @@
         "desc": "Nodeseek是一个讨论网络开发，托管，VPS /服务器和其他极客事物的论坛"
       },
       {
+        "name": "IDC Flare - 域名、主机等信息集散地",
+        "url": "https://idcflare.com/",
+        "desc": "IDC Flare是一个提供域名、主机等信息的集散地，用户可以在这里分享和获取相关信息。"
+      },
+      {
         "name": "全球主机交流论坛",
         "url": "https://hostloc.com/",
         "desc": "美国服务器主机交流"
@@ -17,6 +22,11 @@
         "name": "LowEndTalk",
         "url": "https://www.lowendtalk.com/",
         "desc": "国外主机论坛"
+      },
+      {
+        "name": "NodeLoc",
+        "url": "https://www.nodeloc.com/",
+        "desc": "自由、平等、友好、开放、有趣的互联网交流社区"
       }
     ]
   },
