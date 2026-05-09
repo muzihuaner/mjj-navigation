@@ -45,9 +45,24 @@
         "desc": "本站为IT运维人员提供实用的工具，多地ping测试、多地tcping测试、网站测速、HTTP测速、API测速、路由追踪、在线MTR 、DNS查询等。"
       },
       {
-        "name": "PING0",
-        "url": "http://ping0.cc/",
+        "name": "PING.PE - 在线ping",
+        "url": "https://ping.pe/",
+        "desc": "PING.PE是一个在线ping工具，提供全球多个节点的ping测试服务，帮助用户检测网络连接质量和延迟情况。"
+      },
+      {
+        "name": "IPlark",
+        "url": "https://iplark.com/",
         "desc": "查看IP纯净度"
+      },
+      {
+        "name": "IPPure",
+        "url": "https://ippure.com/",
+        "desc": "查看IP纯净度"
+      },
+      {
+        "name": "BGP.TOOLS",
+        "url": "https://bgp.tools/",
+        "desc": "BGP.TOOLS是一个提供BGP路由分析和网络工具的网站，帮助用户了解互联网路由和网络拓扑结构。"
       },
       {
         "name": "全球主机监控",
@@ -128,6 +143,11 @@
         "name": "IDCJK",
         "url": "https://www.idcjk.com/",
         "desc": "IDC 风险以及信息查询系统"
+      },
+      {
+        "name": "FAST.com",
+        "url": "https://www.fast.com/",
+        "desc": "在线网络速度测试工具"
       }
     ]
   },
@@ -146,19 +166,9 @@
         "desc": "阿里巴巴集团旗下公司，是全球领先的云计算及人工智能科技公司之一。"
       },
       {
-        "name": "ClawCloud | 高性能，低成本 | 独享VPS",
-        "url": "https://claw.cloud/",
-        "desc": "ClawCloud是一家云服务基础设施提供商，为开发者提供高性能、低成本的VPS服务，独享CPU、内存、存储，无资源争抢，是每一位开发者无与伦比的超值选择。"
-      },
-      {
         "name": "搬瓦工 – 香港CN2 GIA、日本CN2 GIA、美国CN2 GIA等",
         "url": "https://bwh81.net/",
         "desc": "隶属于加拿大IT7公司的VPS品牌，商家靠谱，技术实力雄厚。"
-      },
-      {
-        "name": "Vultr – 美国云服务器提供商",
-        "url": "https://www.vultr.com/",
-        "desc": "轻松在全球范围内部署云服务器"
       },
       {
         "name": "Oracle Cloud – 一个广泛、深入的公共云服务平台",
