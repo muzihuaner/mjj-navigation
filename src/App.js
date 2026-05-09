@@ -21,8 +21,8 @@ function App() {
           </div>
         </div>
 
-        <footer className="text-center text-gray-500 mt-8">
-          <p>&copy; 2025 欢哥科技</p>
+        <footer className="text-center  py-6 mt-8 border-t border-gray-200">
+          <p>&copy; {new Date().getFullYear()} 快点MJJ导航</p>
         </footer>
       </div>
     </div>

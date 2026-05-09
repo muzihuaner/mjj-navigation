@@ -44,6 +44,11 @@
         "desc": "尽量做最全能测试服务器的脚本"
       },
       {
+        "name": "NodeQuality",
+        "url": "https://nodequality.com/",
+        "desc": "服务器基准测试脚本，用于收集基本硬件信息、IP质量和网络质量。"
+      },
+      {
         "name": "netboot.xyz",
         "url": "https://netboot.xyz/",
         "desc": "netboot.xyz是一个网络引导程序，可以从网络引导多种操作系统安装程序。"
@@ -72,6 +77,11 @@
         "name": "Cloudflare",
         "url": "https://www.cloudflare.com/",
         "desc": "赛博菩萨，Cloudflare是一家美国公司，提供内容交付网络、互联网安全服务和分布式域名系统服务。"
+      },
+      {
+        "name": "IDCJK",
+        "url": "https://www.idcjk.com/",
+        "desc": "IDC 风险以及信息查询系统"
       }
     ]
   },
@@ -324,9 +334,9 @@
         "desc": "致力于提供高性价比的云服务器。。"
       },
       {
-        "name": "碳云",
-        "url": "https://www.coalcloud.net/",
-        "desc": "Coalcloud是国内优质的企业级云计算服务提供商。专注公有云技术研发，主要面向广大开发者、政企用户、金融机构等，提供基于智能云服务器的全方位云计算解决方案，为用户提供可信赖的企业级公有云服务。。"
+        "name": "ColoCrossing",
+        "url": "https://www.colocrossing.com/",
+        "desc": "ColoCrossing提供高性能的专用服务器和VPS服务，适用于企业和高需求的IT环境。"
       },
       {
         "name": "雨云 - 新一代云服务提供商",
@@ -458,11 +468,6 @@
         "name": "狗云",
         "url": "https://www.dogyun.com/product/dedicated",
         "desc": "狗云 - 独立物理服务器、提供重庆香港等地的独立服务器租用服务。"
-      },
-      {
-        "name": "NoMao(小埋主机)",
-        "url": "https://port.nomao.top/index.php/store/qu",
-        "desc": "个人独服卖家、不定期有货、非常便宜（转卖Psychz），提供IPMI、需要联系小埋（老板）开通24h IP白名单。让每一位小朋友都拥有自己的小🐔"
       }
     ]
   },
@@ -521,6 +526,11 @@
         "name": "PacificRack",
         "url": "https://pacificrack.com/",
         "desc": "加利福尼亚洛杉矶的网络托管公司"
+      },
+      {
+        "name": "狐蒂云",
+        "url": "https://www.szhdy.com/",
+        "desc": "资金链断裂..."
       }
     ]
   }
