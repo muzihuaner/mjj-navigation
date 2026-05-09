@@ -1,6 +1,6 @@
 [
   {
-    "name": "📢MJJ论坛&工具",
+    "name": "📢MJJ论坛",
     "color": "bg-blue-100 border-blue-500",
     "links": [
       {
@@ -17,7 +17,13 @@
         "name": "LowEndTalk",
         "url": "https://www.lowendtalk.com/",
         "desc": "国外主机论坛"
-      },
+      }
+    ]
+  },
+  {
+    "name": "🛠️ 工具",
+    "color": "bg-blue-600 border-blue-500",
+    "links": [
       {
         "name": "哪煮米",
         "url": "https://www.nazhumi.com/",
@@ -59,6 +65,26 @@
         "desc": "开源、轻量、易用的服务器监控与运维工具."
       },
       {
+        "name": "Komari",
+        "url": "https://www.komari.wiki/",
+        "desc": "轻量级的自托管服务器监控工具"
+      },
+      {
+        "name": "NodeGet",
+        "url": "https://nodeget.com/",
+        "desc": "下一代服务器监控管理工具"
+      },
+      {
+        "name": "Prometheus",
+        "url": "https://prometheus.io/",
+        "desc": "开源监控系统，支持多维数据模型和强大的查询语言"
+      },
+      {
+        "name": "Grafana",
+        "url": "https://grafana.com/",
+        "desc": "开源的可视化监控平台，支持多种数据源"
+      },
+      {
         "name": "1Panel",
         "url": "https://1panel.cn/",
         "desc": "开源，现代化。1Panel 是新一代的 Linux 服务器运维管理面板"
@@ -69,8 +95,18 @@
         "desc": "宝塔,安全高效的服务器运维面板."
       },
       {
+        "name": "Caddy",
+        "url": "https://caddyserver.com/",
+        "desc": "开源的 HTTP/2 服务器，配置简单，自动 HTTPS"
+      },
+      {
+        "name": "Nginx",
+        "url": "https://nginx.org/",
+        "desc": "高性能 HTTP 服务器和反向代理服务器"
+      },
+      {
         "name": "VPS剩余价值计算器",
-        "url": "https://vpsvalue.quickso.cn/",
+        "url": "https://jsq.xiaoge.org/",
         "desc": "VPS剩余价值计算器，帮助你计算VPS的剩余价值"
       },
       {
