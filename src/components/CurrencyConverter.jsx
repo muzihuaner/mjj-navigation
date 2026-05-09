@@ -12,7 +12,7 @@ const CurrencyConverter = () => {
   useEffect(() => {
     const fetchRates = async () => {
       try {
-        const response = await fetch('https://api.frankfurter.app/latest');
+        const response = await fetch('https://api.quickso.cn/api/huilv/index.php');
         const data = await response.json();
         setRates(data.rates);
         setLoading(false);
@@ -32,48 +32,50 @@ const CurrencyConverter = () => {
     }
   }, [amount, fromCurrency, toCurrency, rates]);
 
+  const currencyOptions = Object.keys(rates).filter(c => ['USD', 'CNY', 'EUR', 'GBP', 'JPY', 'HKD', 'KRW', 'AUD', 'CAD', 'SGD'].includes(c));
+
   if (loading) return <div className="text-center py-4">加载汇率中...</div>;
   if (error) return <div className="text-center text-red-500 py-4">{error}</div>;
 
   return (
-    <div className="bg-red-100 rounded-lg shadow-md p-6 mb-8">
-      <h2 className="text-2xl font-semibold mb-4 text-gray-800 text-center">实时汇率计算</h2>
+    <div className="bg-white rounded-lg border p-4 mb-6">
+      <h2 className="text-lg font-semibold text-gray-800 mb-4">汇率计算</h2>
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
         <div>
-          <label className="block text-sm font-medium text-gray-700">金额</label>
+          <label className="block text-sm text-gray-600 mb-1">金额</label>
           <input
             type="number"
             value={amount}
             onChange={(e) => setAmount(e.target.value)}
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
+            className="w-full border rounded px-3 py-2 focus:outline-none focus:ring-1 focus:ring-gray-400"
           />
         </div>
         <div>
-          <label className="block text-sm font-medium text-gray-700">从</label>
+          <label className="block text-sm text-gray-600 mb-1">从</label>
           <select
             value={fromCurrency}
             onChange={(e) => setFromCurrency(e.target.value)}
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
+            className="w-full border rounded px-3 py-2 focus:outline-none focus:ring-1 focus:ring-gray-400"
           >
-            {Object.keys(rates).map(currency => (
+            {currencyOptions.map(currency => (
               <option key={currency} value={currency}>{currency}</option>
             ))}
           </select>
         </div>
         <div>
-          <label className="block text-sm font-medium text-gray-700">到</label>
+          <label className="block text-sm text-gray-600 mb-1">到</label>
           <select
             value={toCurrency}
             onChange={(e) => setToCurrency(e.target.value)}
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
+            className="w-full border rounded px-3 py-2 focus:outline-none focus:ring-1 focus:ring-gray-400"
           >
-            {Object.keys(rates).map(currency => (
+            {currencyOptions.map(currency => (
               <option key={currency} value={currency}>{currency}</option>
             ))}
           </select>
         </div>
-        <div className="bg-gray-50 p-4 rounded-md">
-          <div className="text-lg font-medium text-blue-600">
+        <div className="border rounded px-3 py-2 bg-gray-50">
+          <div className="text-lg font-medium text-gray-800">
             {convertedAmount.toFixed(2)} {toCurrency}
           </div>
         </div>
@@ -82,4 +84,3 @@ const CurrencyConverter = () => {
   );
 };
 export default CurrencyConverter;
-

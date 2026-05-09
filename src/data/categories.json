@@ -1,7 +1,7 @@
 [
   {
     "name": "📢MJJ论坛",
-    "color": "bg-blue-100 border-blue-500",
+    "color": "bg-blue-300 border-blue-500",
     "links": [
       {
         "name": "Nodeseek",
@@ -123,7 +123,7 @@
   },
   {
     "name": "🔥 热门商家",
-    "color": "bg-orange-100 border-orange-500",
+    "color": "bg-orange-400 border-orange-500",
     "links": [
       {
         "name": "腾讯云-产业智变·云启未来",
@@ -159,7 +159,7 @@
   },
   {
     "name": "🏭 一线大厂",
-    "color": "bg-blue-100 border-blue-500",
+    "color": "bg-blue-400 border-blue-500",
     "links": [
       {
         "name": "腾讯云-产业智变·云启未来",
@@ -235,7 +235,7 @@
   },
   {
     "name": "🌐 网络专线",
-    "color": "bg-green-100 border-green-500",
+    "color": "bg-green-400 border-green-500",
     "links": [
       {
         "name": "鸡仔云 – 广港、沪日、沪韩等跨境IPLC专线",
@@ -291,7 +291,7 @@
   },
   {
     "name": "🧷域名注册",
-    "color": "bg-pink-100 border-pink-500",
+    "color": "bg-pink-400 border-pink-500",
     "links": [
       {
         "name": "Name.com – 域名、注册、网站和托管",
@@ -337,7 +337,7 @@
   },
   {
     "name": "💻 国内外中小厂",
-    "color": "bg-purple-100 border-purple-500",
+    "color": "bg-purple-400 border-purple-500",
     "links": [
       {
         "name": "ClawCloud | 高性能，低成本 | 独享VPS",
@@ -458,7 +458,7 @@
   },
   {
     "name": "🍗 富豪，买个独服？！",
-    "color": "bg-teal-100 border-teal-500",
+    "color": "bg-teal-400 border-teal-500",
     "links": [
       {
         "name": "Hetzner",
@@ -509,7 +509,7 @@
   },
   {
     "name": "🎰炼丹炉",
-    "color": "bg-yellow-100 border-yellow-500",
+    "color": "bg-yellow-400 border-yellow-500",
     "links": [
       {
         "name": "AutoDL算力云 | 弹性、好用、省钱。租GPU就上AutoDL",
@@ -545,7 +545,7 @@
   },
   {
     "name": "🚨 灵车商家",
-    "color": "bg-red-100 border-red-500",
+    "color": "bg-red-400 border-red-500",
     "links": [
       {
         "name": "高风险商家",
