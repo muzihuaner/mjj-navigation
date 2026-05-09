@@ -157,6 +157,62 @@
     ]
   },
   {
+    "name": "🧱ONEMAN从入门到跑路",
+    "color": "bg-cyan-400 border-orange-500",
+    "links": [
+      {
+        "name": "WHMCS",
+        "url": "https://www.whmcs.com/",
+        "desc": "WHMCS 是一个功能强大的客户管理、计费和自动化系统，专为 Web 托管公司设计。"
+      },
+      {
+        "name": "WHMCS-开心版",
+        "url": "https://whmcsfull.com",
+        "desc": "WHMCS 是一个功能强大的客户管理、计费和自动化系统，专为 Web 托管公司设计。"
+      },
+      {
+        "name": "智简魔方系列",
+        "url": "https://www.idcsmart.com/",
+        "desc": "智简魔方系列 是一个现代化的客户管理和计费系统，专为 Web 托管公司和在线服务提供商设计。"
+      },
+      {
+        "name": "智简魔方系列-开心版",
+        "url": "https://github.com/aazooo/zjmf",
+        "desc": "智简魔方系列 是一个功能强大的客户管理和计费系统，适用于 Web 托管公司和在线服务提供商。"
+      },
+      {
+        "name": "FOSSBilling",
+        "url": "https://fossbilling.org/",
+        "desc": "FOSSBilling 是一个开源的客户管理和计费系统，专为 Web 托管公司和在线服务提供商设计。"
+      },
+      {
+        "name": "彩虹Kangle",
+        "url": "http://kangle.cccyun.cn/",
+        "desc": "彩虹Kangle一键脚本，是一款可以一键安装Kangle+Easypanel+MySQL+PHP集合的Linux脚本。开虚拟主机或者CDN"
+      },
+      {
+        "name": "Virtualizor",
+        "url": "https://www.virtualizor.com/",
+        "desc": "Virtualizor 是一个功能强大的 VPS 管理面板，支持多种虚拟化技术，包括 KVM、OpenVZ、Xen 和 LXC。"
+      },
+      {
+        "name": "VirtFusion",
+        "url": "https://www.virtfusion.com/",
+        "desc": "VirtFusion 是一个功能强大的 VPS 管理面板，支持多种虚拟化技术"
+      },
+      {
+        "name": "SolusVM",
+        "url": "https://www.solusvm.com",
+        "desc": "SolusVM 是一个功能强大的 VPS 管理面板，支持多种虚拟化技术"
+      },
+      {
+        "name": "lxdapi-web-server",
+        "url": "https://github.com/xkatld/lxdapi-web-server",
+        "desc": "lxdapi-web-server 是一个基于 LXD API 的 Web 服务器管理工具，提供了一个用户友好的界面来管理和监控 LXD 容器。"
+      }
+    ]
+  },
+  {
     "name": "🔥 热门商家",
     "color": "bg-orange-400 border-orange-500",
     "links": [
@@ -544,21 +600,17 @@
         "name": "OneProvider",
         "url": "https://www.oneprovider.com/",
         "desc": "OneProvider是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
-      }
-,
+      },
       {
         "name": "Crunchbits",
         "url": "https://www.crunchbits.com/",
         "desc": "Crunchbits是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
-      }
-,
+      },
       {
         "name": "FiberState",
         "url": "https://www.fiberstate.com/",
         "desc": "FiberState是一家全球性的云服务提供商，提供高性能、高可用性的服务器和网络解决方案。"
       }
-
-
     ]
   },
   {
