@@ -12,7 +12,7 @@ function App() {
             快点MJJ导航
           </h1>
           <p className="text-gray-500">
-            汇集 VPS、云服务器、域名、IDC、网络专线等优质资源
+            你的服务器购买指南
           </p>
         </div>
         <CurrencyConverter />
