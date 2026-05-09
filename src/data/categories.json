@@ -314,11 +314,6 @@
     "color": "bg-green-400 border-green-500",
     "links": [
       {
-        "name": "鸡仔云 – 广港、沪日、沪韩等跨境IPLC专线",
-        "url": "https://bigchick.xyz",
-        "desc": "专营广港、沪日和沪韩等IPLC专线。"
-      },
-      {
         "name": "彼得巧(PQS) – 莞港IPLC、台湾hinet、广东移动VDS",
         "url": "https://www.pqs.pw/",
         "desc": "专注提供台湾、香港和深港IPLC专线等网络服务。"
@@ -327,11 +322,6 @@
         "name": "无忧云-稳定可靠的云服务商 – 以云与智慧融绘数字未来",
         "url": "https://www.wuyouyun.cc/",
         "desc": "无忧云（51cloud.cc）是一家经营国内服务器托管、VDS、VPS，稳定可靠的云服务商。"
-      },
-      {
-        "name": "Ocent – 深港IPLC专线、香港VPS、日本VPS、大带宽流媒体解锁VPS",
-        "url": "https://www.wuyouyun.cc/",
-        "desc": "https://ocent.net/"
       },
       {
         "name": "咕咕云 – 云服务器、大带宽服务器、服务器租用托管服务提供商",
