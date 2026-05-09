@@ -135,11 +135,6 @@
         "desc": "VPS剩余价值计算器，帮助你计算VPS的剩余价值"
       },
       {
-        "name": "Cloudflare",
-        "url": "https://www.cloudflare.com/",
-        "desc": "赛博菩萨，Cloudflare是一家美国公司，提供内容交付网络、互联网安全服务和分布式域名系统服务。"
-      },
-      {
         "name": "IDCJK",
         "url": "https://www.idcjk.com/",
         "desc": "IDC 风险以及信息查询系统"
@@ -646,6 +641,32 @@
         "name": "超算互联网",
         "url": "https://www.scnet.cn/ui/mall/",
         "desc": "以创新驱动引领数字中国"
+      }
+    ]
+  },
+  {
+    "name": "🌩️ CDN，给你的服务加个速",
+    "color": "bg-blue-400 border-blue-500",
+    "links": [
+      {
+        "name": "Cloudflare",
+        "url": "https://www.cloudflare.com/",
+        "desc": "赛博菩萨，Cloudflare是一家提供内容分发网络（CDN）服务的公司，旨在加速网站和应用程序的加载速度，提高安全性，并提供可靠的在线体验。"
+      },
+      {
+        "name": "EdgeOne CDN",
+        "url": "https://edgeone.ai/",
+        "desc": "EdgeOne CDN是腾讯云提供的内容分发网络服务，旨在加速网站、应用和视频等内容的传输，提高用户访问速度和体验。"
+      },
+      {
+        "name": "七牛云CDN",
+        "url": "https://www.qiniu.com",
+        "desc": "七牛云CDN是七牛云提供的内容分发网络服务，旨在加速网站、应用和视频等内容的传输，提高用户访问速度和体验。"
+      },
+      {
+        "name": "又拍云CDN",
+        "url": "https://www.upyun.com",
+        "desc": "又拍云CDN是又拍云提供的内容分发网络服务，旨在加速网站、应用和视频等内容的传输，提高用户访问速度和体验。"
       }
     ]
   },
